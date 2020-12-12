@@ -1,4 +1,4 @@
-# # Association Rule Miner
+# Association Rule Miner
 
 ![Association rule miner](https://github.com/mkhorasani/Online_Association_Minining/blob/master/Association%20rule%20miner.PNG?raw=true)
 
